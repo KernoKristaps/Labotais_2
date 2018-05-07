@@ -17,7 +17,7 @@ namespace Labotais_Projekts_3
             dati = Console.ReadLine();
             Console.WriteLine("Dzimis" + dati);
             Console.ReadLine();
-            Console.WriteLine("github plus");
+            Console.WriteLine("labots");
             Console.ReadLine();
         }
     }
