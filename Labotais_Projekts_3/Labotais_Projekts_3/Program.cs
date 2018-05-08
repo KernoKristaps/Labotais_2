@@ -16,7 +16,6 @@ namespace Labotais_Projekts_3
 
             dati = Console.ReadLine();
             Console.WriteLine("Dzimis" + dati);
-            Console.ReadLine();
             Console.WriteLine("labots");
             Console.ReadLine();
         }
